@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">exams_1V_Lobanov</string>
+    
+    <string-array name="forSpiner">
+        <item>Байт </item>
+        <item>Килобайт </item>
+        <item>Мегабайт </item>
+        <item>Гигабайт </item>
+    </string-array>
+
+</resources>
